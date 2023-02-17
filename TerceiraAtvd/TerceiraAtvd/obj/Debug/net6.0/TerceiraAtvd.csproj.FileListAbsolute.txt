@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\bin\Debug\net6.0\TerceiraAtvd.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\bin\Debug\net6.0\TerceiraAtvd.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\bin\Debug\net6.0\TerceiraAtvd.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\bin\Debug\net6.0\TerceiraAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\bin\Debug\net6.0\TerceiraAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\refint\TerceiraAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\TerceiraAtvd.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TerceiraAtvd\TerceiraAtvd\obj\Debug\net6.0\ref\TerceiraAtvd.dll
