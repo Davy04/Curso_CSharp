@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\bin\Debug\net6.0\SegundaAtvd.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\bin\Debug\net6.0\SegundaAtvd.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\bin\Debug\net6.0\SegundaAtvd.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\bin\Debug\net6.0\SegundaAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\bin\Debug\net6.0\SegundaAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\refint\SegundaAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\SegundaAtvd.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SegundaAtvd\SegundaAtvd\obj\Debug\net6.0\ref\SegundaAtvd.dll
