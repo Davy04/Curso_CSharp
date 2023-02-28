@@ -1,10 +1,13 @@
-﻿Console.Write("Digite um valor: ");
+﻿Console.Write("Digite o primeiro valor: ");
 int v1 = int.Parse(Console.ReadLine());
 
-if(v1 % 2 == 0)
+Console.Write("Digite o segundo valor: ");
+int v2 = int.Parse(Console.ReadLine());
+
+if (v1 % v2 == 0 || v2 % v1 == 0)
 {
-    Console.WriteLine("O número é par!");
+    Console.WriteLine("São Multiplos!");
 } else
 {
-    Console.WriteLine("O número é Impar!");
+    Console.WriteLine("Não são Multiplos!");
 }
