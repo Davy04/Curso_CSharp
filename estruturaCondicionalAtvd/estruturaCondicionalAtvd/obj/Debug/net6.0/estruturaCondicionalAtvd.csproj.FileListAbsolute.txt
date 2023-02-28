@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\bin\Debug\net6.0\estruturaCondicionalAtvd.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\bin\Debug\net6.0\estruturaCondicionalAtvd.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\bin\Debug\net6.0\estruturaCondicionalAtvd.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\bin\Debug\net6.0\estruturaCondicionalAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\bin\Debug\net6.0\estruturaCondicionalAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\refint\estruturaCondicionalAtvd.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\estruturaCondicionalAtvd.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\estruturaCondicionalAtvd\estruturaCondicionalAtvd\obj\Debug\net6.0\ref\estruturaCondicionalAtvd.dll
