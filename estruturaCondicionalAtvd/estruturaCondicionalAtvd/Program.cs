@@ -1,10 +1,10 @@
 ﻿Console.Write("Digite um valor: ");
 int v1 = int.Parse(Console.ReadLine());
 
-if(v1 >= 0)
+if(v1 % 2 == 0)
 {
-    Console.WriteLine("O número é Positivo!");
+    Console.WriteLine("O número é par!");
 } else
 {
-    Console.WriteLine("O número é Negativo!");
+    Console.WriteLine("O número é Impar!");
 }
