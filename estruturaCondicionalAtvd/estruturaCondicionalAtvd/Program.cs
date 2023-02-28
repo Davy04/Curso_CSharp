@@ -1,13 +1,18 @@
-﻿Console.Write("Digite o primeiro valor: ");
-int v1 = int.Parse(Console.ReadLine());
+﻿Console.Write("Digite o horario de inicio: ");
+int horaInicial = int.Parse(Console.ReadLine());
 
-Console.Write("Digite o segundo valor: ");
-int v2 = int.Parse(Console.ReadLine());
+Console.Write("Digite o horario de termino: ");
+int horaFinal = int.Parse(Console.ReadLine());
 
-if (v1 % v2 == 0 || v2 % v1 == 0)
+int duracao;
+
+if (horaInicial < horaFinal)
 {
-    Console.WriteLine("São Multiplos!");
-} else
-{
-    Console.WriteLine("Não são Multiplos!");
+    duracao = horaFinal - horaInicial;
 }
+else
+{
+    duracao = 24 - horaInicial + horaFinal;
+}
+
+Console.WriteLine("O JOGO DUROU " + duracao + " HORA(S)");
