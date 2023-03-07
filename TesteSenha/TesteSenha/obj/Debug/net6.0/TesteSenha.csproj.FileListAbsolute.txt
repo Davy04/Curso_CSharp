@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\bin\Debug\net6.0\TesteSenha.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\bin\Debug\net6.0\TesteSenha.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\bin\Debug\net6.0\TesteSenha.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\bin\Debug\net6.0\TesteSenha.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\bin\Debug\net6.0\TesteSenha.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\refint\TesteSenha.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\TesteSenha.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteSenha\TesteSenha\obj\Debug\net6.0\ref\TesteSenha.dll
