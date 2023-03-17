@@ -21,3 +21,7 @@ func2.Salario = double.Parse(Console.ReadLine());
 
 mediaSal = (func1.Salario + func2.Salario) / 2;
 Console.WriteLine("A media de salário foi : " + mediaSal);
+
+Console.WriteLine("daka");
+
+
