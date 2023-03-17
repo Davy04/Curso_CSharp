@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\bin\Debug\net6.0\salarioMedio.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\bin\Debug\net6.0\salarioMedio.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\bin\Debug\net6.0\salarioMedio.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\bin\Debug\net6.0\salarioMedio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\bin\Debug\net6.0\salarioMedio.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\refint\salarioMedio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\salarioMedio.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\salarioMedio\salarioMedio\obj\Debug\net6.0\ref\salarioMedio.dll
