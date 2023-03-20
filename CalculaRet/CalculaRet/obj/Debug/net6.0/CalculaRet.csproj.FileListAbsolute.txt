@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\bin\Debug\net6.0\CalculaRet.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\bin\Debug\net6.0\CalculaRet.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\bin\Debug\net6.0\CalculaRet.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\bin\Debug\net6.0\CalculaRet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\bin\Debug\net6.0\CalculaRet.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\refint\CalculaRet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\CalculaRet.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CalculaRet\CalculaRet\obj\Debug\net6.0\ref\CalculaRet.dll
