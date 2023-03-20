@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\bin\Debug\net6.0\LojaTv.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\bin\Debug\net6.0\LojaTv.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\bin\Debug\net6.0\LojaTv.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\bin\Debug\net6.0\LojaTv.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\bin\Debug\net6.0\LojaTv.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\refint\LojaTv.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\LojaTv.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\LojaTv\LojaTv\obj\Debug\net6.0\ref\LojaTv.dll
