@@ -19,7 +19,24 @@ namespace LojaTv // Note: actual namespace depends on the project name.
             Console.Write("Quantidade no estoque: ");
             p.Quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionado: ");
+            int qtd = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qtd);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removido: ");
+            qtd = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(qtd);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
