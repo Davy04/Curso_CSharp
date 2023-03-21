@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\bin\Debug\net6.0\TesteAluno.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\bin\Debug\net6.0\TesteAluno.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\bin\Debug\net6.0\TesteAluno.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\bin\Debug\net6.0\TesteAluno.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\bin\Debug\net6.0\TesteAluno.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\refint\TesteAluno.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\TesteAluno.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\TesteAluno\TesteAluno\obj\Debug\net6.0\ref\TesteAluno.dll
