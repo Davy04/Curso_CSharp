@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\bin\Debug\net6.0\SalarioBruto.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\bin\Debug\net6.0\SalarioBruto.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\bin\Debug\net6.0\SalarioBruto.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\bin\Debug\net6.0\SalarioBruto.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\bin\Debug\net6.0\SalarioBruto.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\refint\SalarioBruto.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\SalarioBruto.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\SalarioBruto\SalarioBruto\obj\Debug\net6.0\ref\SalarioBruto.dll
