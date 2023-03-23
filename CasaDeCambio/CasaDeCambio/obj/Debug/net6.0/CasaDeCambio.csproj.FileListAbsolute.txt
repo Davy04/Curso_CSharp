@@ -1,0 +1,15 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.csproj.AssemblyReference.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\bin\Debug\net6.0\CasaDeCambio.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\bin\Debug\net6.0\CasaDeCambio.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\bin\Debug\net6.0\CasaDeCambio.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\bin\Debug\net6.0\CasaDeCambio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\bin\Debug\net6.0\CasaDeCambio.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\refint\CasaDeCambio.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\CasaDeCambio.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\CasaDeCambio\CasaDeCambio\obj\Debug\net6.0\ref\CasaDeCambio.dll
