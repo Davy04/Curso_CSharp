@@ -16,6 +16,7 @@ namespace LojaTv // Note: actual namespace depends on the project name.
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Produto p = new Produto(nome,preco);
+            Produto p2 = new Produto();
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
