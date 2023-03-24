@@ -5,28 +5,17 @@ namespace LojaTv
     internal class Produto
     {
         private string _nome;
-        private double _preco;
-        private int _quantidade;
-
+        public double Preco { get; private set; }
+        public double Quantidade { get; set; }
         public Produto()
         {
-
         }
-
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Preco = preco;
+            Quantidade = quantidade;
         }
-
-        public Produto(string nome, double preco)
-        {
-            _nome = nome;
-            _preco = preco;
-            _quantidade = 5;
-        }
-
         public string Nome
         {
             get { return _nome; }
@@ -38,38 +27,27 @@ namespace LojaTv
                 }
             }
         }
-
-        public double Preco
+        public double ValorTotalEmEstoque
         {
-            get { return _preco; }
+            get { return Preco * Quantidade; }
         }
-
-        public int Quantidade
-        {
-            get { return _quantidade; }
-        }
-
-        public double ValorTotalEmEstoque()
-        {
-            return _preco * _quantidade;
-        }
-
         public void AdicionarProdutos(int quantidade)
         {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
-
         public void RemoverProdutos(int quantidade)
         {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
-
         public override string ToString()
         {
-            return _nome + ",  $" + _preco.ToString("F2", CultureInfo.InvariantCulture) +
-                ", " + _quantidade + " Unidades, Total: $" + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            return _nome
+            + ", $ "
+            + Preco.ToString("F2", CultureInfo.InvariantCulture)
+            + ", "
+            + Quantidade
+            + " unidades, Total: $ "
+            + ValorTotalEmEstoque.ToString("F2", CultureInfo.InvariantCulture);
         }
-
-
     }
 }
