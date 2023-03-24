@@ -7,35 +7,12 @@ namespace LojaTv // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+            Produto p = new Produto("TV", 500.00, 10);
+            p.SetNome("T");
 
-            Console.WriteLine("Entre os dados do produto: ");
-            Console.Write("Nome: ");
-            string nome = Console.ReadLine();
+            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.GetPreco());
 
-            Console.Write("Preço: ");
-            double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
-            Produto p = new Produto(nome,preco);
-            Produto p2 = new Produto();
-
-            Console.WriteLine();
-            Console.WriteLine("Dados do produto: " + p);
-
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser adicionado: ");
-            int qtd = int.Parse(Console.ReadLine());
-            p.AdicionarProdutos(qtd);
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
-
-            Console.WriteLine();
-            Console.Write("Digite o número de produtos a ser removido: ");
-            qtd = int.Parse(Console.ReadLine());
-            p.RemoverProdutos(qtd);
-
-            Console.WriteLine();
-            Console.WriteLine("Dados atualizados: " + p);
         }
     }
 }
