@@ -11,7 +11,7 @@ namespace ContaBancaria
     {
         public int Numero { get; private set; }
         public string Titular { get; set; }
-        public double Saldo  { get; private set; }
+        public double Saldo { get; private set; }
 
         public Conta(int numero, string titular)
         {
@@ -19,9 +19,19 @@ namespace ContaBancaria
             Titular = titular;
         }
 
-        public Conta(int numero, string titular, double saldo) : this(numero, titular)
+        public Conta(int numero, string titular, double depositoInicial)
         {
-            Saldo = saldo;
+            Deposito(depositoInicial);
+        }
+
+        public void Deposito(double quantia)
+        {
+            Saldo += quantia;
+        }
+
+        public void Saque(double quantia)
+        {
+            Saldo -= quantia + 5;
         }
 
         public override string ToString()

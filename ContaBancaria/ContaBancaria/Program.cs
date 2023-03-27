@@ -17,6 +17,7 @@ namespace ContaBancaria
 
             Console.Write("Haverá deposito inicial (s/n)? ");
             char resp = char.Parse(Console.ReadLine());
+            Console.WriteLine("");
 
             if (resp == 's' || resp == 'S')
             {
@@ -32,6 +33,23 @@ namespace ContaBancaria
             Console.WriteLine("");
             Console.WriteLine("Dados da Conta: ");
             Console.WriteLine(c);
+            Console.WriteLine("");
+
+            Console.Write("Entre um valor para deposito: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("");
+            c.Deposito(quantia);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(c);
+            Console.WriteLine("");
+
+            Console.Write("Entre um valor para saque: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("");
+            c.Saque(quantia);
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(c);
+
         }
     }
 }
